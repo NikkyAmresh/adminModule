@@ -1,9 +1,8 @@
 {
-  "name": "intership-task-booksapp",
+  "name": "intership-task",
   "version": "1.0.0",
-  "description": "Task for BooksApp intership",
+  "description": "Task",
   "main": "index.js",
-  "repository": "git@github.com:NikkyAmresh/intershipTaskBooksApp.git",
   "author": "Nikky Amresh",
   "license": "MIT",
   "private": true,
